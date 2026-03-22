@@ -25,6 +25,6 @@ I'm a software developer from Pune with a passion for clean code and telling a g
 - [**Therapy‑Cat**](https://github.com/dhruvdaberao/Therapy-Cat) – a Python project exploring therapeutic chat experiences.
 - [**Portfolio**](https://github.com/dhruvdaberao/PORTFOLIO) – my personal website built with TypeScript and modern web technologies.
 
-## 💋 Get in touch
+## 👋 Get in touch
 
 Feel free to reach out via my portfolio site or connect with me here on GitHub. I'm always excited to collaborate and learn together!
