@@ -1,86 +1,82 @@
-# Hi, I'm Dhruv Daberao 👋
+🚀 Dhruv Daberao
+Full-Stack Engineer | Real-Time Systems | AI/ML
 
-🚀 Full-Stack Developer | Real-Time Systems | MERN Stack | AI/ML  
+💡 Building high-performance, scalable applications with a focus on
+real-time architecture, system design, and production-grade engineering
 
-I build **scalable, production-ready applications** with a focus on **real-time systems, performance, and clean architecture**.  
-Currently in my final year of engineering, preparing for software engineering roles.
+⚡ What Sets Me Apart
 
----
+✔️ Real-time systems (WebSockets, event-driven architecture)
+✔️ Production-focused (performance, caching, scalability)
+✔️ Full ownership: Frontend → Backend → Deployment → Optimization
+✔️ AI integration into real-world applications
 
-## ⚡ What I Do
-- Build **full-stack applications (MERN + TypeScript)**
-- Design **real-time systems using Socket.IO**
-- Develop **AI/ML-based solutions**
-- Focus on **performance optimization & scalable architecture**
+🔥 Flagship Projects
+🧠 Tribe Social
 
----
+Real-time social media platform (MERN + Socket.IO + AI)
 
-## 🔥 Featured Projects
+Live chat, feeds, stories, tribes
+Hybrid architecture (REST + WebSockets)
+AI assistant (Google Gemini)
+Built for scale, speed & real-time UX
+🎨 Froodle
 
-### 🧠 [Tribe Social](https://github.com/dhruvdaberao/Tribe-Social)
-Full-stack **real-time social media platform** (MERN + Socket.IO)  
-- Live chat, feeds, stories, tribes (groups), notifications  
-- Hybrid architecture (REST + WebSockets)  
-- AI assistant integration (Google Gemini)
+Collaborative whiteboard platform
 
----
+Multi-user drawing with live sync
+Infinite canvas + real-time cursors
+Event-driven architecture
+📄 Resume Insight
 
-### 🎨 [Froodle](https://github.com/dhruvdaberao/Froodle)
-Real-time **collaborative whiteboard platform**  
-- Multi-user drawing with Socket.IO  
-- Live cursors, chat, reactions  
-- Infinite canvas + advanced drawing tools  
+AI-powered resume-job matching
 
----
+NLP skill extraction (spaCy)
+ML-based job fit prediction
+Data-driven decision system
+🌱 AgriGains
 
-### 📄 [Resume Insight](https://github.com/dhruvdaberao/Resume-Insight)
-AI/ML-based **resume-job matching system**  
-- NLP-based skill extraction (spaCy)  
-- Similarity scoring & job fit prediction  
-- Built using Python, ML models, and data pipelines  
+ML-based crop recommendation system
 
----
+Yield prediction + fertilizer suggestions
+Built on real-world agricultural datasets
+📊 DopaTrack
 
-### 🌱 [AgriGains](https://github.com/dhruvdaberao/AGRIGAINS)
-ML-powered **crop prediction & recommendation system**  
-- Data-driven yield prediction  
-- Fertilizer & crop suggestion  
-- Built using Python & machine learning  
+Productivity & behavior analytics app
 
----
+Activity tracking + insights
+Data visualization & pattern analysis
+🛠️ Tech Arsenal
 
-### 📊 [DopaTrack](https://github.com/dhruvdaberao/Dopa-Track)
-Productivity-focused **habit & dopamine tracking app**  
-- Activity tracking & analytics visualization  
-- Charts & insights for behavior patterns  
-- Built using modern frontend technologies  
+Frontend
+React • Next.js • TypeScript • Tailwind
 
----
+Backend
+Node.js • Express • Socket.IO • REST APIs
 
-## 🛠️ Tech Stack
+Database & Infra
+MongoDB • Mongoose • Cloudinary
 
-### 💻 Frontend
-React • Next.js • TypeScript • Tailwind CSS  
+AI / ML
+Python • NLP • Machine Learning
 
-### ⚙️ Backend
-Node.js • Express • Socket.IO • REST APIs  
+DevOps & Tools
+Git • GitHub • Vercel • Render
 
-### 🗄️ Database & Cloud
-MongoDB • Mongoose • Cloudinary  
+📈 Engineering Mindset
+Optimize before scaling
+Build for real users, not just demos
+Clean architecture > quick hacks
+Performance = feature
+🌐 Portfolio
 
-### 🤖 AI / ML
-Python • NLP (spaCy) • Machine Learning  
+👉 https://dhruvdaberao.vercel.app
 
-### 🚀 Tools & Deployment
-Git • GitHub • Vercel • Render  
+🤝 Open To Opportunities
 
----
+🚀 Software Engineering Roles (Full-Time / Internships)
+💡 High-impact projects & collaborations
 
-## 🌐 Portfolio
-👉 https://dhruvdaberao.vercel.app  
+⭐ If you like my work, consider starring my repositories — it helps a lot!
 
----
-
-## 🤝 Let's Connect
-Open to **internships, full-time roles, and impactful projects**.  
-Always building, always learning 🚀
+💬 Let’s build something impactful.
