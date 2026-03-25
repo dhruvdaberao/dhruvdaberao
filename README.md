@@ -1,82 +1,166 @@
 🚀 Dhruv Daberao
 Full-Stack Engineer | Real-Time Systems | AI/ML
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2CB&center=true&vCenter=true&width=600&lines=Building+Real-Time+Applications;Scaling+Systems+That+Actually+Work;Turning+Ideas+Into+Production+Systems" />
+💡 About Me
 
-💡 Building high-performance, scalable applications with a focus on
-real-time architecture, system design, and production-grade engineering
+I’m a final-year engineering student who doesn’t just build projects —
+I build systems that behave like real products.
 
-⚡ What Sets Me Apart
+While most developers focus on features, I focus on:
 
-✔️ Real-time systems (WebSockets, event-driven architecture)
-✔️ Production-focused (performance, caching, scalability)
-✔️ Full ownership: Frontend → Backend → Deployment → Optimization
-✔️ AI integration into real-world applications
+⚡ Performance (fast load, no lag, smooth UX)
+🔄 Real-time systems (instant updates, no refresh)
+🏗️ Architecture (scalable, maintainable codebases)
+
+I enjoy solving problems where speed, scale, and user experience intersect.
+
+⚡ What Makes Me Different
+
+🧠 I think in systems, not pages
+⚡ I optimize for real-world performance, not just functionality
+🔗 I build end-to-end (Frontend → Backend → Infra → AI)
+🚀 I integrate AI into real applications (not just demos)
 
 🔥 Flagship Projects
 🧠 Tribe Social
 
-Real-time social media platform (MERN + Socket.IO + AI)
+🔗 https://github.com/dhruvdaberao/Tribe-Social
 
-Live chat, feeds, stories, tribes
-Hybrid architecture (REST + WebSockets)
-AI assistant (Google Gemini)
-Built for scale, speed & real-time UX
+A real-time social media platform built like a production system
+
+✨ Features
+
+Live chat, feeds, stories, tribes (groups)
+Notifications + real-time updates
+AI assistant integration (Google Gemini)
+
+⚙️ Engineering Highlights
+
+Hybrid architecture → REST + WebSockets
+Real-time messaging using Socket.IO rooms
+Optimistic UI for instant interactions
+Performance-focused feed system
+
+🚀 Why It Stands Out
+This isn’t just CRUD — it behaves like a mini Instagram + WhatsApp hybrid
+
 🎨 Froodle
 
-Collaborative whiteboard platform
+🔗 https://github.com/dhruvdaberao/Froodle
 
-Multi-user drawing with live sync
-Infinite canvas + real-time cursors
+A real-time collaborative whiteboard platform
+
+✨ Features
+
+Multi-user drawing (live sync)
+Real-time cursors & chat
+Infinite canvas
+
+⚙️ Engineering Highlights
+
 Event-driven architecture
+Low-latency sync across users
+Efficient state broadcasting
+
+🚀 Why It Stands Out
+Handles multiple users drawing simultaneously without breaking sync
+
 📄 Resume Insight
 
-AI-powered resume-job matching
+🔗 https://github.com/dhruvdaberao/Resume-Insight
 
-NLP skill extraction (spaCy)
-ML-based job fit prediction
-Data-driven decision system
+AI-powered resume-job matching system
+
+✨ Features
+
+Skill extraction using NLP (spaCy)
+Job fit prediction using ML models
+Similarity scoring system
+
+⚙️ Engineering Highlights
+
+Feature engineering pipeline
+ML model comparison (RF, XGBoost, ANN)
+Backend integration for predictions
+
+🚀 Why It Stands Out
+Bridges AI models with real-world decision systems
+
 🌱 AgriGains
 
-ML-based crop recommendation system
+🔗 https://github.com/dhruvdaberao/AGRIGAINS
 
-Yield prediction + fertilizer suggestions
-Built on real-world agricultural datasets
+ML-powered crop recommendation system
+
+✨ Features
+
+Yield prediction
+Crop & fertilizer suggestions
+
+⚙️ Engineering Highlights
+
+Data-driven model training
+Practical agricultural use-case
+
+🚀 Why It Stands Out
+Solves a real-world problem using ML
+
 📊 DopaTrack
 
-Productivity & behavior analytics app
+🔗 https://github.com/dhruvdaberao/Dopa-Track
 
-Activity tracking + insights
-Data visualization & pattern analysis
-🛠️ Tech Arsenal
+Productivity-focused behavior tracking app
 
-Frontend
-React • Next.js • TypeScript • Tailwind
+✨ Features
 
-Backend
+Activity tracking
+Data visualization (charts & insights)
+
+⚙️ Engineering Highlights
+
+Interactive dashboards
+Pattern analysis
+
+🚀 Why It Stands Out
+Turns user behavior into actionable insights
+
+🛠️ Tech Stack
+💻 Frontend
+
+React • Next.js • TypeScript • Tailwind CSS
+
+⚙️ Backend
+
 Node.js • Express • Socket.IO • REST APIs
 
-Database & Infra
+🗄️ Database & Cloud
+
 MongoDB • Mongoose • Cloudinary
 
-AI / ML
-Python • NLP • Machine Learning
+🤖 AI / ML
 
-DevOps & Tools
+Python • NLP (spaCy) • Machine Learning
+
+🚀 Tools & Deployment
+
 Git • GitHub • Vercel • Render
 
-📈 Engineering Mindset
-Optimize before scaling
-Build for real users, not just demos
-Clean architecture > quick hacks
-Performance = feature
+📈 Engineering Philosophy
+
+“Good code works. Great systems scale.”
+
+Build for users, not just demos
+Optimize for speed & experience
+Keep architecture clean and extensible
+Always think: “Will this break at scale?”
 🌐 Portfolio
 
 👉 https://dhruvdaberao.vercel.app
 
-🤝 Open To Opportunities
+🤝 Let’s Connect
 
+I’m actively looking for:
 🚀 Software Engineering Roles (Full-Time / Internships)
-💡 High-impact projects & collaborations
+💡 Real-world impactful projects
 
-⭐ If you like my work, consider starring my repositories — it helps a lot!
-
-💬 Let’s build something impactful.
+⭐ If you find my work interesting, consider starring my repositories — it genuinely helps!
